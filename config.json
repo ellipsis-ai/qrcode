@@ -1,0 +1,8 @@
+{
+  "name" : "QRDecoder",
+  "exportId" : "MNKwR_rKTNC-hM_lMbFgrQ",
+  "icon" : "🔠",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuth2ApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}

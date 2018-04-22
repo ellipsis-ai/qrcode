@@ -1,0 +1,11 @@
+[ {
+  "exportId" : "RVVzxKRXSq6YvuNi7BElNA",
+  "name" : "file",
+  "paramType" : {
+    "exportId" : "File",
+    "name" : "File"
+  },
+  "question" : "Upload a JPEG or PNG picture of a QR code",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+} ]
